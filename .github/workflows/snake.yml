@@ -1,0 +1,50 @@
+# =====================================================
+# FILE LOCATION IN YOUR REPO:
+# .github/workflows/snake.yml
+# =====================================================
+# HOW TO SET UP (one-time):
+# 1. In your JayendrakumarEng/JayendrakumarEng repo
+#    go to: Settings â†’ Actions â†’ General
+#    â†’ set "Workflow permissions" to "Read and write permissions"
+#    â†’ Save
+# 2. Commit this file to .github/workflows/snake.yml
+# 3. Go to Actions tab â†’ click "Generate Snake" â†’ "Run workflow"
+# 4. After it runs, the snake SVGs appear in the "output" branch
+# 5. Your README.md snake section will now animate!
+# =====================================================
+
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs every day at 6 AM UTC (11:30 AM IST)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
