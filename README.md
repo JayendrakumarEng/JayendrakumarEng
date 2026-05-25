@@ -191,7 +191,7 @@ const jayendra: Developer = {
   <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/JayendrakumarEng/JayendrakumarEng/output/github-snake.svg" />
 </picture>
 
-> ⚙️ **Setup required** — see `snake-workflow.yml` below to activate this animation
+
 
 </div>
 
