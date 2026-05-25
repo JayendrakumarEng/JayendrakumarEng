@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:000000&height=160&section=header&text=Jayendra%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=52&animation=[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:000000&height=160&section=header&text=Jayendra%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=52&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Integrations%20%C2%B7%20Product%20Thinker&descAlignY=74&descSize=15&descColor=888888" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=I+build+products[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=I+build+products+people+actually+use.;React+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+AI+APIs;Graduating+Aug+2027+%C2%B7+TINT+Kolkata;Open+to+Internships+%E2%86%92)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,11 +40,11 @@
 > Three products in active development. Each solves a problem I ran into personally.
 
 **🎓 Campus Connect** &nbsp;—&nbsp; *A verified digital ecosystem for campus opportunities*
-College networking is fragmented. Students miss internships. Alumni lose connection. Staff can't manage at scale. Campus Connect unifies all four roles into one platform — with verified access, [...]
+College networking is fragmented. Students miss internships. Alumni lose connection. Staff can't manage at scale. Campus Connect unifies all four roles into one platform — with verified access, opportunity feeds, direct messaging, and admin control.
 `React` `Vite` `Supabase` `TailwindCSS` `GitHub Actions CI/CD`
 
 **🤖 Interview Shield** &nbsp;—&nbsp; *Real-time AI assistance for technical interviews*
-Chrome extension with Picture-in-Picture stealth mode. Multi-model fallback: Claude → GPT-4o → Gemini. CV parsing, mock mode, audio capture. Built because AI tools during interviews shouldn't [...]
+Chrome extension with Picture-in-Picture stealth mode. Multi-model fallback: Claude → GPT-4o → Gemini. CV parsing, mock mode, audio capture. Built because AI tools during interviews shouldn't require alt-tabbing.
 `Chrome Extension API` `Claude API` `GPT-4o` `Gemini` `JavaScript`
 
 **📦 StockFlow Pro** &nbsp;—&nbsp; *Inventory intelligence for growing businesses*
@@ -65,7 +65,7 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, and a C
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JayendrakumarEng/JayendrakumarEng/main/assets/campus-connect-poster.png" alt="Campus Connect - Project Poster Showcase 2026" width="85%" style="border-radius: 12px;" />
+  <img src="./assets/campus-connect-poster.png" alt="Campus Connect - Project Poster Showcase 2026" width="85%" style="border-radius: 12px;" />
 </div>
 
 <br/>
@@ -116,12 +116,12 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, and a C
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JayendrakumarEng&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=88888[...]
-<img width="49%" src="https://streak-stats.demolab.com/?user=JayendrakumarEng&theme=github-dark-blue&hide_border=true&stroke=333&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&b[...]
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JayendrakumarEng&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=888888&bg_color=0a0a0a&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=JayendrakumarEng&theme=github-dark-blue&hide_border=true&stroke=333&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&background=0a0a0a&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayendrakumarEng&layout=donut-vertical&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=0a0a0a&t[...]
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayendrakumarEng&layout=donut-vertical&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=0a0a0a&text_color=888888&langs_count=6" />
 
 </div>
 
@@ -141,7 +141,7 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, and a C
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JayendrakumarEng&bg_color=0a0a0a&color=ffffff&line=333333&point=ffffff&area=true&area_color=ffffff18&hide_border=[...]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JayendrakumarEng&bg_color=0a0a0a&color=ffffff&line=333333&point=ffffff&area=true&area_color=ffffff18&hide_border=true&custom_title=Contribution%20Graph&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -165,7 +165,7 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, and a C
 
 **Open to internships · Full-time roles post Aug 2027 · Hackathon teams · Open source**
 
-[`jayendra.kumar.it.2023@tint.edu.in`](mailto:jayendra.kumar.it.2023@tint.edu.in) &nbsp;·&nbsp; [`Portfolio`](https://jayendrakumareng.github.io/My-portfolio/) &nbsp;·&nbsp; [`LinkedIn`](https:[...]
+[`jayendra.kumar.it.2023@tint.edu.in`](mailto:jayendra.kumar.it.2023@tint.edu.in) &nbsp;·&nbsp; [`Portfolio`](https://jayendrakumareng.github.io/My-portfolio/) &nbsp;·&nbsp; [`LinkedIn`](https://linkedin.com/in/jayendra-kr)
 
 <br/>
 
