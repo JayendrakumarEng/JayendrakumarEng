@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:000000&height=180&section=header&text=Jayendra%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=48&animation=[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:000000&height=180&section=header&text=Jayendra%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=48&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Integrations%20%C2%B7%20Product%20Thinker&descAlignY=68&descSize=16&descColor=666666" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=I+build+products[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=I+build+products+people+actually+use.;React+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+AI+APIs;Open+to+Internships+%E2%86%92+Graduating+Aug+2027)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,7 +34,7 @@
 > Three products in active development. Each solves a problem I ran into personally.
 
 🎓 **Campus Connect** &nbsp;—&nbsp; *A verified digital ecosystem for campus opportunities*
-College networking is fragmented. Students miss internships. Alumni lose connection. Campus Connect unifies all four roles — students, staff, alumni, admins — with verified access, opportunity[...]
+College networking is fragmented. Students miss internships. Alumni lose connection. Campus Connect unifies all four roles — students, staff, alumni, admins — with verified access, opportunity feeds, and direct messaging.
 `React` `Vite` `Supabase` `TailwindCSS` `GitHub Actions CI/CD`
 
 🤖 **Interview Shield** &nbsp;—&nbsp; *Real-time AI assistance for technical interviews*
@@ -53,7 +53,7 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, Claude-
 
 <div align="center">
 
-<img src="[[https://raw.githubusercontent.com/JayendrakumarEng/JayendrakumarEng/main/assets/campus-connect-poster.png" alt="Campus Connect - Project Poster Showcase 2026" width="88%](https://githu[...]
+<img src="https://raw.githubusercontent.com/JayendrakumarEng/JayendrakumarEng/main/assets/campus-connect-poster.png" alt="Campus Connect - Project Poster Showcase 2026" width="88%"/>
 
 <br/><br/>
 
@@ -105,12 +105,12 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, Claude-
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JayendrakumarEng&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=88888[...]
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayendrakumarEng&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=0a0a0a&text_col[...]
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JayendrakumarEng&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=888888&bg_color=0a0a0a&include_all_commits=true&rank_icon=github&hide=contribs" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayendrakumarEng&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&bg_color=0a0a0a&text_color=888888&langs_count=6" />
 
 <br/><br/>
 
-<img width="96%" src="https://streak-stats.demolab.com/?user=JayendrakumarEng&theme=dark&hide_border=true&stroke=111&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&background=0a[...]
+<img width="96%" src="https://streak-stats.demolab.com/?user=JayendrakumarEng&theme=dark&hide_border=true&stroke=111&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&background=0a0a0a&dates=444444&currStreakNum=ffffff&sideNums=ffffff&excludeDaysLabel=444" />
 
 </div>
 
@@ -130,7 +130,7 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, Claude-
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JayendrakumarEng&bg_color=0a0a0a&color=ffffff&line=333333&point=ffffff&area=true&area_color=ffffff12&hide_border=[...]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JayendrakumarEng&bg_color=0a0a0a&color=ffffff&line=333333&point=ffffff&area=true&area_color=ffffff12&hide_border=true&custom_title=Contribution+Graph&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -164,7 +164,7 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, Claude-
 
 **Open to internships · Full-time roles post Aug 2027 · Hackathon teams · Open source**
 
-[`jayendra.kumar.it.2023@tint.edu.in`](mailto:jayendra.kumar.it.2023@tint.edu.in) &nbsp;·&nbsp; [`Portfolio`](https://jayendrakumareng.github.io/My-portfolio/) &nbsp;·&nbsp; [`LinkedIn`](https:[...]
+[`jayendra.kumar.it.2023@tint.edu.in`](mailto:jayendra.kumar.it.2023@tint.edu.in) &nbsp;·&nbsp; [`Portfolio`](https://jayendrakumareng.github.io/My-portfolio/) &nbsp;·&nbsp; [`LinkedIn`](https://linkedin.com/in/jayendra-kr)
 
 <br/>
 
