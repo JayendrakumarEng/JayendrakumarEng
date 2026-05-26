@@ -53,7 +53,7 @@ Demand forecasting engine, SVG warehouse mapping, auto-reorder triggers, Claude-
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JayendrakumarEng/JayendrakumarEng/main/assets/campus-connect-poster.png" alt="Campus Connect - Project Poster Showcase 2026" width="88%"/>
+<img src="[https://raw.githubusercontent.com/JayendrakumarEng/JayendrakumarEng/main/assets/campus-connect-poster.png" alt="Campus Connect - Project Poster Showcase 2026" width="88%](https://github.com/JayendrakumarEng/JayendrakumarEng/blob/main/file_0000000049a47207b4d6b7eaf7cf51eb.png)"/>
 
 <br/><br/>
 
